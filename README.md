@@ -62,7 +62,3 @@ Tic-Tac-Toe/
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to submit issues or pull requests to enhance the project.
-
-## 📄 License
-
-This project is open-source and available under the MIT License.
